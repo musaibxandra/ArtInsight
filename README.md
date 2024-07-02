@@ -1,1 +1,0 @@
-Analyzing Museums and Paintings
