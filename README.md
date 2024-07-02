@@ -4,7 +4,7 @@
 Analyzing the Museums and Paintings market with an Aim to get valuable insights.
 The Goal is to get a beginner starting out in the Domain of Paintings and Museums become familiar with the history and current trends of the industry.
 
-![Alt text](the_image.jpg)
+![Alt text](the_image.jpeg)
 
 
 
