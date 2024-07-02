@@ -4,7 +4,7 @@
 Analyzing the Museums and Paintings market with an Aim to get valuable insights.
 The Goal is to get a beginner starting out in the Domain of Paintings and Museums become familiar with the history and current trends of the industry.
 
-![Alt text](AllentownArtMuseum_Gallery01_DiscoverLehighValley_2450c76f-4de5-402c-a060-d0a8ff3b1d37.jpg)
+![Alt text](the_image.jpg)
 
 
 
