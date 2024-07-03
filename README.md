@@ -35,6 +35,3 @@ Data files / tables :
 - subject.csv
 - work.csv
 
-## Authors
-
-- [@musaibxandra](https://www.github.com/octokatherine)
