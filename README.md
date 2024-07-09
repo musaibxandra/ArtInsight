@@ -7,6 +7,8 @@ ArtInsight Catalysts is a leading art market intelligence firm specializing in d
 ![Alt text](the_image.jpeg)
 
 
+Sql | Postgresql
+
 # Data Analysis
 
 In Surge of recent public demands, ArtInsight Catalysts has identified a critical need for a comprehensive analysis of museum & paintings industry. 
@@ -37,4 +39,6 @@ Data files / tables :
 - subject.csv
 - work.csv
 
+# SQL Analytical Queries
 
+- Available in the sql file `Museums_and_Paintings.sql`.
