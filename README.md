@@ -37,9 +37,4 @@ Data files / tables :
 - subject.csv
 - work.csv
 
-# Approach
 
-- Data Exploration
-- Data Cleaning and Preparation
-- Perform statistical analyses to identify significant relationships and trends.
-- Visualize key findings using appropriate charts, graphs, and maps.
