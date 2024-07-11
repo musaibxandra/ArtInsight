@@ -1,7 +1,7 @@
 
-# ArtInsight Catalysts
+# ArtInsight
 
-ArtInsight Catalysts is a leading art market intelligence firm specializing in data-driven insights for museums, galleries, and collectors.
+ArtInsight is a leading art market intelligence firm specializing in data-driven insights for museums, galleries, and collectors.
 
 
 ![Alt text](the_image.jpeg)
@@ -11,7 +11,7 @@ Sql | Postgresql
 
 # Data Analysis
 
-In Surge of recent public demands, ArtInsight Catalysts has identified a critical need for a comprehensive analysis of museum & paintings industry. 
+In Surge of recent public demands, ArtInsight has identified a critical need for a comprehensive analysis of museum & paintings industry. 
 
 Head of analytics team is in search of information on museums, paintings, artists, and the characteristics of individual paintings. This analysis aims to uncover patterns, trends, and insights that can inform museum management and public engagement strategies that can helpfull at ArtInsight.
 
